@@ -19,4 +19,4 @@ We do **not** share, sell, or use your information for advertising or tracking.
 All data is stored securely in Supabase (a managed cloud database) and can be deleted upon request.
 
 ## Contact
-For any questions, contact: **support@safilogic.com**
+For any questions, contact: **support@safi.com**
